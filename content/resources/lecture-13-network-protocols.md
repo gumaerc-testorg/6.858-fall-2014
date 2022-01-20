@@ -1,0 +1,19 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Lecture 13: Network Protocols'
+uid: 8e1c92a5-f9e1-8560-8098-c8c0e10fbddd
+video_files:
+  archive_url: https://archive.org/download/MIT6.858F14/MIT6_858F14_lec13_300k.mp4
+  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-858-computer-systems-security-fall-2014/b85f135dd5c054789b8e3def5c495551_QOtA76ga_fY.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/QOtA76ga_fY/default.jpg
+  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-858-computer-systems-security-fall-2014/970e86f6cf94f6fa71bac49d8894c424_QOtA76ga_fY.pdf
+video_metadata:
+  youtube_id: QOtA76ga_fY
+---
+
+**Description:** In this lecture, Professor Zeldovich discusses the Kerberos authentication service.
+
+**Instructor:** Nickolai Zeldovich

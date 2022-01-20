@@ -1,0 +1,37 @@
+leftnav:
+- identifier: e6f502bf-9581-0d7c-8b9c-094a36d20b4e
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: dabca564-ab4f-bb85-e10a-3f813fb45ad0
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 50ab49ba-d54a-f501-0f69-d11b0bb294be
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: 123196f5-0a80-ab91-9783-50a4f1430445
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 40
+- identifier: f5ba5779-d7e3-03d2-ec41-57c31d6ed586
+  name: Lecture Videos
+  url: /video_galleries/video-lectures
+  weight: 50
+- identifier: 94238b87-4e6f-22ba-6c9b-1808380a482e
+  name: Labs
+  url: /pages/labs
+  weight: 60
+- identifier: fd4a47a4-0f87-ab36-ef6a-94747bc76da1
+  name: Exams
+  url: /pages/exams
+  weight: 70
+- identifier: a8bc830d-8425-c49a-5db9-c42fab665c47
+  name: Final Project
+  url: /pages/final-project
+  weight: 80
+- identifier: a6f91eef-0088-67b5-0d76-1f5f025c358d
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 90
