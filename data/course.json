@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "25da8196-446b-d0c8-95cd-090493d6ad1f",
+  "instructors": {
+    "content": [
+      "64913dcb-4d01-3a6b-97e0-473d06fe525c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "90716014-a031-71bd-e18b-c7138884136c",
+    "website": "6-858-computer-systems-security-fall-2014"
+  },
+  "course_title": "Computer Systems Security",
+  "course_description": "6.858 Computer Systems Security is a class about the design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.858",
+  "course_image_thumbnail": {
+    "content": "6c0e81f8-9766-672c-3dcf-b62bdf0702a6",
+    "website": "6-858-computer-systems-security-fall-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "d3434fd4-7bea-4d09-8e57-b28bcd4052ff",
+  "title": "Course Metadata"
+}
