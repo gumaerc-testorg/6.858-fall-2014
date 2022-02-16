@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Final Project
 uid: a8bc830d-8425-c49a-5db9-c42fab665c47
 ---

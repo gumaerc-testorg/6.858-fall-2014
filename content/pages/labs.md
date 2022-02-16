@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 94238b87-4e6f-22ba-6c9b-1808380a482e
 ---
@@ -55,7 +58,7 @@ SUPPORTING FILES
 [Lab 4: Attacking the Server (PDF)]({{< baseurl >}}/resources/mit6_858f14_lab4)
 {{< tdclose >}}
 {{< tdopen >}}
- <no supporting files>
+ \<no supporting files>
 {{< tdclose >}}
 
 {{< trclose >}}
