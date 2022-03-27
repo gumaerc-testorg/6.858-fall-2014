@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fd4a47a4-0f87-ab36-ef6a-94747bc76da1
 resourcetype: Document
 title: Class on Computer Systems Security, Exam 1 Review, Fall 2014
 uid: 1614bcb3-be1e-439a-9640-4029922f183a

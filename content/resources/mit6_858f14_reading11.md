@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 50ab49ba-d54a-f501-0f69-d11b0bb294be
 resourcetype: Document
 title: Class on Computer Systems Security, Reading Question 11
 uid: 5b3f834f-3551-0798-5670-c5bab3ae8c7d

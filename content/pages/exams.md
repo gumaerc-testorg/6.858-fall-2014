@@ -100,7 +100,7 @@ SOLUTIONS
 
 [Quiz 1 Review (PDF)]({{< baseurl >}}/resources/mit6_858f14_q14_1_review)
 
-[Quiz 1 Review 2 (TXT)](./resolveuid/e94ce733d4105f8d320a9a149cab7e6e)
+[Quiz 1 Review 2 (TXT)]({{< baseurl >}}/resources/q14-1_review)
 
 
 {{< tdclose >}}
@@ -188,7 +188,7 @@ SOLUTIONS
 
 [Quiz 2 Review 2 (PDF)]({{< baseurl >}}/resources/mit6_858f14_q14_2_review2)
 
-[Quiz 2 Review 3 (TXT)](./resolveuid/4258dab8d45859ba3a15047796aa8c28)
+[Quiz 2 Review 3 (TXT)]({{< baseurl >}}/resources/q14-2_review3)
 
 
 {{< tdclose >}}
