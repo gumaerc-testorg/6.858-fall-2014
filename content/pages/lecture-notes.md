@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with the lecture notes for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 123196f5-0a80-ab91-9783-50a4f1430445
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -25,7 +31,7 @@ TOPICS AND NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction, Threat Models (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec1)
+{{% resource_link f98bcda3-6fdb-a596-27cb-14dbb8800bc9 "Introduction, Threat Models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +40,7 @@ TOPICS AND NOTES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Control Hijacking Attacks (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec2)
+{{% resource_link 76e4b3b4-cd46-3e82-c7c5-8361ed93fd29 "Control Hijacking Attacks (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +49,7 @@ TOPICS AND NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Buffer Overflow Exploits and Defenses (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec3)
+{{% resource_link 8cee7fe9-db0b-f87f-ccc3-32570b7d11ef "Buffer Overflow Exploits and Defenses (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +58,7 @@ TOPICS AND NOTES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Privilege Separation (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec4)
+{{% resource_link f6502464-629d-8fc5-f03c-157bd3c03fbd "Privilege Separation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +76,7 @@ Guest Lecture: Paul Youn from [iSEC Partners](https://www.isecpartners.com/) (n
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Capabilities (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec6)
+{{% resource_link 0f397e7b-504a-a9b1-4676-3705619d49ba "Capabilities (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +85,7 @@ Guest Lecture: Paul Youn from [iSEC Partners](https://www.isecpartners.com/) (n
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Sandboxing Native Code (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec7)
+{{% resource_link fae7e5f4-9a2a-ac30-30eb-1c8fab2731da "Sandboxing Native Code (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +94,7 @@ Guest Lecture: Paul Youn from [iSEC Partners](https://www.isecpartners.com/) (n
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Web Security Model (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec8)
+{{% resource_link e59ea1c3-e94b-d1fb-73e3-62ceabb8d7f9 "Web Security Model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +103,7 @@ Guest Lecture: Paul Youn from [iSEC Partners](https://www.isecpartners.com/) (n
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Securing Web Applications (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec9)
+{{% resource_link fa42d957-47fd-5e97-ebd5-7c247f0c6d2a "Securing Web Applications (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +130,7 @@ Ur / Web (no notes)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Network Security (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec12)
+{{% resource_link b3c3ad23-c29b-4381-e41b-619e081cce13 "Network Security (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +139,7 @@ Ur / Web (no notes)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Network Protocols (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec13)
+{{% resource_link 1812c0fe-15b6-7c5b-73b9-83475243e19d "Network Protocols (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +148,7 @@ Ur / Web (no notes)
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[SSL and HTTPS (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec14)
+{{% resource_link 2aa7a8f7-491f-0634-8be7-3ee84df9c4c1 "SSL and HTTPS (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +166,7 @@ Medical Software (no notes)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Side-Channel Attacks (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec16)
+{{% resource_link 133e478b-c502-ccd2-73e8-ffc40824950c "Side-Channel Attacks (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +175,7 @@ Medical Software (no notes)
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[User Authentication (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec17)
+{{% resource_link fc7921d8-85ea-8f51-dd73-ec6a545d8ac9 "User Authentication (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +184,7 @@ Medical Software (no notes)
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Private Browsing (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec18)
+{{% resource_link 2733124b-a064-2f9b-bbf4-c540f39d8491 "Private Browsing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +202,7 @@ Anonymous Communication (no notes)
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Mobile Phone Security (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec20)
+{{% resource_link 99672abb-37fe-a2f2-49b7-ab46eb623ef7 "Mobile Phone Security (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +211,7 @@ Anonymous Communication (no notes)
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Data Tracking (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec21)
+{{% resource_link 61810088-64a4-5453-0cb6-39d1e33ed2e3 "Data Tracking (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +229,7 @@ Guest Lecture: Mark Silis and David LaPorte from [MIT IS&T](http://ist.mit.edu/)
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Security Economics (PDF)]({{< baseurl >}}/resources/mit6_858f14_lec23)
+{{% resource_link 5e4bc510-4e16-fe7c-6d9b-6aea6695c548 "Security Economics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

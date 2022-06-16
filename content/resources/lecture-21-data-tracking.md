@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Professor Mickens discusses the concept of taint tracking, looking at information flow analysis in the context of the Android platform.
 
 **Instructor:** James Mickens
+
+
+

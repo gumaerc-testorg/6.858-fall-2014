@@ -27,3 +27,6 @@ video_metadata:
 **Description:** In this lecture, Kevin Fu from the University of Michigan delivers a guest lecture on medical software.
 
 **Instructor:** Kevin Fu
+
+
+
