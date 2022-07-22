@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the readings and reading questions for each lecture
+  session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 50ab49ba-d54a-f501-0f69-d11b0bb294be
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -40,7 +49,7 @@ No question
 Akritidis, Periklis, Manuel Costa, et al. "[Baggy Bounds Checking: An Efficient and Backwards-Compatible Defense against Out-of-Bounds Errors](http://research.microsoft.com/apps/pubs/default.aspx?id=101450)." _USENIX Security Symposium_ (2009): pp. 51–66.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading2)
+{{% resource_link f7b9665c-1307-cae9-fde0-ec5e8edba70e "Lecture 2 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +61,7 @@ Akritidis, Periklis, Manuel Costa, et al. "[Baggy Bounds Checking: An Efficient 
 Bittau, Andrea, Adam Belay, et al. "[Hacking Blind](http://crypto.stanford.edu/~dabo/pubs/abstracts/brop.html)." _Proceedings of the IEEE Symposium on Security & Privacy_ (2014).
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading3)
+{{% resource_link b3cc1a5f-b054-54a3-1b3e-f6dcc2ef5800 "Lecture 3 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,12 +72,12 @@ Bittau, Andrea, Adam Belay, et al. "[Hacking Blind](http://crypto.stanford.edu/~
 {{< tdopen >}}
 
 
-Krohn, Maxwell. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Building Secure High-Performance Web Services with OKWS (PDF)](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf)." _USENIX Technical Conference_ (2004): pp. 185–198.
+Krohn, Maxwell. "[Building Secure High-Performance Web Services with OKWS (PDF)](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf)." _USENIX Technical Conference_ (2004): pp. 185–198.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading4)
+{{% resource_link fd5b1b51-d610-793b-86f6-e0d7df74f919 "Lecture 4 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,12 +102,12 @@ No question
 
 Hardy, Norm. "The Confused Deputy." _ACM SIGOPS Operating Systems Review_ 22, no. 4 (1988): pp. 36–38.
 
-Watson, Robert N. M., Jonathan Anderson, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Capsicum: practical capabilities for UNIX." (PDF)](https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf) _Proceedings of the 19th USENIX Security Symposium_ (2010).
+Watson, Robert N. M., Jonathan Anderson, et al. ["Capsicum: practical capabilities for UNIX." (PDF)](https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf) _Proceedings of the 19th USENIX Security Symposium_ (2010).
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading6)
+{{% resource_link df196c62-6d6a-8c3a-1c94-d3ffb85d2246 "Lecture 6 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +119,7 @@ Watson, Robert N. M., Jonathan Anderson, et al. ![This resource may not render c
 Yee, Bennett, David Sehr, et al. "[Native Client: A Sandbox for Portable, Untrusted x86 Native Code](http://dx.doi.org/10.1109/SP.2009.25)." _IEEE Symposium on Security and Privacy_ (2009): pp. 79–93.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading7)
+{{% resource_link bfcff072-0f0d-a10d-1499-cbd22d21c182 "Lecture 7 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +137,7 @@ Zalewski, Michal. Chapters 9–13 in _The Tangled Web: A Guide to Securing Moder
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading8)
+{{% resource_link 37c7be06-bc03-d690-8e27-43097b1920d6 "Lecture 8 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +155,7 @@ Zalewski, Michal. Chapters 9–13 in _The Tangled Web: A Guide to Securing Moder
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading9)
+{{% resource_link 41cc3912-b847-2e2a-8c6f-0d75b5abe056 "Lecture 9 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +167,7 @@ Zalewski, Michal. Chapters 9–13 in _The Tangled Web: A Guide to Securing Moder
 Cadar, Cristian, Daniel Dunbar, et al. "[KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://llvm.org/pubs/2008-12-OSDI-KLEE.html)." _Operating Systems Design and Implementation_ (2008): pp. 209–224.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading10)
+{{% resource_link 22d2fcbe-c7fe-6fbb-1df4-590e8c93d999 "Lecture 10 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +179,7 @@ Cadar, Cristian, Daniel Dunbar, et al. "[KLEE: Unassisted and Automatic Generati
 Chlipala, Adam. "[Ur / Web: A Simple Model for Programming the Web](http://dspace.mit.edu/handle/1721.1/92321)." _ACM SIGPLAN-SIGACT Symposium_ (2015): pp. 153–165.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading11)
+{{% resource_link 5b3f834f-3551-0798-5670-c5bab3ae8c7d "Lecture 11 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +191,7 @@ Chlipala, Adam. "[Ur / Web: A Simple Model for Programming the Web](http://dspac
 Bellovin, Steven M. "[A Look Back at 'Security Problems in the TCP/IP Protocol Suite'](http://dx.doi.org/10.1109/CSAC.2004.3)." _Computer Security Applications Conference_ (2004): pp. 229–249.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading12)
+{{% resource_link 900bfe06-3152-9bd0-bc6d-c29d6e38cf76 "Lecture 12 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +203,7 @@ Bellovin, Steven M. "[A Look Back at 'Security Problems in the TCP/IP Protocol S
 Steiner, Jennifer G., Clifford Neuman, et al. "[Kerberos: An Authentication Service for Open Network Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.112.9002)." _USENIX Conference_ (1988).
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading13)
+{{% resource_link 5fc37ee0-43f1-6301-9e5e-30284c65cae1 "Lecture 13 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +215,7 @@ Steiner, Jennifer G., Clifford Neuman, et al. "[Kerberos: An Authentication Serv
 Jackson, Collin, and Adam Barth. "[ForceHTTPS: Protecting High-Security Web Sites from Network Attacks](http://dx.doi.org/10.1145/1367497.1367569)." _Proceedings of the_ _17th_ _international conference on World Wide Web_ (2008): pp. 525–534.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading14)
+{{% resource_link 021c653b-fae0-e222-8ea8-336c35307289 "Lecture 14 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,10 +224,10 @@ Jackson, Collin, and Adam Barth. "[ForceHTTPS: Protecting High-Security Web Site
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Fu, Kevin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Trustworthy Medical Device Software." (PDF)](http://spqr.eecs.umich.edu/papers/fu-trustworthy-medical-device-software-IOM11.pdf), 2011.
+Fu, Kevin. ["Trustworthy Medical Device Software." (PDF)](http://spqr.eecs.umich.edu/papers/fu-trustworthy-medical-device-software-IOM11.pdf), 2011.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading15)
+{{% resource_link 56832265-76fd-42bd-04db-3a526450f781 "Lecture 15 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +239,7 @@ Fu, Kevin. ![This resource may not render correctly in a screen reader.](/images
 Brumley, David, and Dan Boneh. "[Remote Timing Attacks are Practical](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.12.2615)." __Proceedings of the__ _12th_ _USENIX Security Symposium_ 12, (2003): pp. 1.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading16)
+{{% resource_link 99353ca2-e45f-569c-31d5-21075ef0965e "Lecture 16 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +257,7 @@ There is an optional extended version published by the University of Cambridge: 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 17 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading17)
+{{% resource_link cd6d0547-ffcc-0481-5ba9-2e1eef566823 "Lecture 17 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +269,7 @@ There is an optional extended version published by the University of Cambridge: 
 Aggarwal, Gaurav, Elie Burzstein, et al. "[An Analysis of Private Browsing Modes in Modern Browsers](http://dl.acm.org/citation.cfm?id=1929828)." _USENIX Conference on Security_ (2010).
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading18)
+{{% resource_link c5dd2bb6-14ea-025b-932f-e5b749739c54 "Lecture 18 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +291,7 @@ Blog posts:
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading19)
+{{% resource_link b7074ed0-8bad-97b4-a97f-6639dfd3ad2c "Lecture 19 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +309,7 @@ Errata: Bug in the paper: In Figure 1, in the FriendViewer application, the top 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading20)
+{{% resource_link 5f43d29f-664c-3bcc-5b60-29d308cebc3f "Lecture 20 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +321,7 @@ Errata: Bug in the paper: In Figure 1, in the FriendViewer application, the top 
 Enck, William, Peter Gilbert, et al. "[TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](http://dx.doi.org/10.1145/2494522)." _Communications of the ACM_ 57, no. 3 (2010): pp. 99–106.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21 Questions (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading21)
+{{% resource_link 3cd38998-d3d6-5337-4e06-f4f06c664449 "Lecture 21 Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -336,7 +345,7 @@ No question
 Levchenko, Kirill, Andreas Pitsillidis, et al. "[Click Trajectories: End-to-End Analysis of the Spam Value Chain](http://dx.doi.org/10.1109/SP.2011.24)." _IEEE Symposium on Security and Privacy_ (2011): pp. 431–446.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading23)
+{{% resource_link ebeb9784-200b-41a7-0748-e4d461528503 "Lecture 23 Question (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

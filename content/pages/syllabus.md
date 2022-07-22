@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: 'This syllabus section provides the course description and information
+  on meeting times, prerequisites, lectures, quizzes, assignments, grading, turn-in
+  policy, collaboration, use of MIT''s computing environment, and a warning about
+  security work and research.    '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e6f502bf-9581-0d7c-8b9c-094a36d20b4e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This course makes use of Athena, MIT's UNIX-based computing environment. OCW does not provide access to this environment.
@@ -14,7 +24,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_6.033 Computer System Engineering_](/courses/6-033-computer-system-engineering-spring-2018/)
+[_6.033 Computer System Engineering_](/courses/6-033-computer-system-engineering-spring-2018)
 
 Description
 -----------
