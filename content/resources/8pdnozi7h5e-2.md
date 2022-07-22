@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-858-computer-systems-security-fall-2014/e7c1514e3f1d53fbace083e4deda98b3_8PdnOZI7H5E.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

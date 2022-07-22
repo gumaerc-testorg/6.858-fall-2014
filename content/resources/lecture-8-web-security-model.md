@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Professor Mickens introduces the concept of web security, specifically as it relates to client-side applications and web browser security models.
 
 **Instructor:** James Mickens
-
-
 

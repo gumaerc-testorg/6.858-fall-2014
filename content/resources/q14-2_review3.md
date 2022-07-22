@@ -5,6 +5,7 @@ file: /courses/6-858-computer-systems-security-fall-2014/4258dab8d45859ba3a15047
 file_type: text/plain
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file related to txt.
-
