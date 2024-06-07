@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-858-computer-systems-security-fall-2014/85aa2526a71b4bb5df8cc237f87ce294_q1OF_0ICt9A.pdf
+file_size: 120898
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

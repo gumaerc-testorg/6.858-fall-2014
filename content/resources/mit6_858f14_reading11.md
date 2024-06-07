@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Class on Computer Systems
   Security, Reading Question 11.
 file: /courses/6-858-computer-systems-security-fall-2014/5b3f834f355107985670c5bab3ae8c7d_MIT6_858F14_Reading11.pdf
+file_size: 87007
 file_type: application/pdf
 learning_resource_types:
 - Readings
