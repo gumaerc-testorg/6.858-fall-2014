@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Class on Computer Systems
   Security, Reading Question 20.
-file: /courses/6-858-computer-systems-security-fall-2014/5f43d29f664c3bcc5b6029d308cebc3f_MIT6_858F14_Reading20.pdf
+file: /ol-ocw-studio-app/courses/6-858-computer-systems-security-fall-2014/5f43d29f664c3bcc5b6029d308cebc3f_MIT6_858F14_Reading20.pdf
 file_size: 85224
 file_type: application/pdf
 learning_resource_types:
