@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to txt.
-file: /ol-ocw-studio-app/courses/6-858-computer-systems-security-fall-2014/4258dab8d45859ba3a15047796aa8c28_q14-2_review3.txt
+file: /courses/6-858-computer-systems-security-fall-2014/4258dab8d45859ba3a15047796aa8c28_q14-2_review3.txt
 file_size: 12837
 file_type: text/plain
 learning_resource_types:
