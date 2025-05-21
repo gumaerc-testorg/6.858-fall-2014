@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-858-computer-systems-security-fall-2014/53081f735984520e98fd8c5d04af7d31_eRJ_r8WF1Y0.vtt
+file: /courses/6-858-computer-systems-security-fall-2014/53081f735984520e98fd8c5d04af7d31_eRJ_r8WF1Y0.vtt
 file_size: 118118
 file_type: application/x-subrip
 learning_resource_types: []
