@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding quiz 2014 review. '
-file: /courses/6-858-computer-systems-security-fall-2014/4befb6c31963af0a47fe24339132b569_MIT6_858F14_q14_2_review2.pdf
+file: /ol-ocw-studio-app/courses/6-858-computer-systems-security-fall-2014/4befb6c31963af0a47fe24339132b569_MIT6_858F14_q14_2_review2.pdf
 file_size: 557929
 file_type: application/pdf
 learning_resource_types:
