@@ -104,7 +104,7 @@ Anonymous Communication (no notes)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture: Mark Silis and David LaPorte from [MIT IS&T](http://ist.mit.edu/) (no notes)
+Guest Lecture: Mark Silis and David LaPorte from {{% resource_link "6e14c77d-5b2a-4138-bbae-af5449e983cb" "MIT IS&T" %}} (no notes)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
