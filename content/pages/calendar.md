@@ -191,7 +191,7 @@ Open Book and Notes
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture: Mark Silis and David LaPorte from [MIT IS&T](http://ist.mit.edu/)
+Guest Lecture: Mark Silis and David LaPorte from {{% resource_link "6e14c77d-5b2a-4138-bbae-af5449e983cb" "MIT IS&T" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
